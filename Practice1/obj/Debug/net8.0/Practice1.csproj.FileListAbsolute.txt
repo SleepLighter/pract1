@@ -1,0 +1,14 @@
+D:\studio\Microsoft Visual Studio\uff\Practice1\bin\Debug\net8.0\Practice1.exe
+D:\studio\Microsoft Visual Studio\uff\Practice1\bin\Debug\net8.0\Practice1.deps.json
+D:\studio\Microsoft Visual Studio\uff\Practice1\bin\Debug\net8.0\Practice1.runtimeconfig.json
+D:\studio\Microsoft Visual Studio\uff\Practice1\bin\Debug\net8.0\Practice1.dll
+D:\studio\Microsoft Visual Studio\uff\Practice1\bin\Debug\net8.0\Practice1.pdb
+D:\studio\Microsoft Visual Studio\uff\Practice1\obj\Debug\net8.0\Practice1.GeneratedMSBuildEditorConfig.editorconfig
+D:\studio\Microsoft Visual Studio\uff\Practice1\obj\Debug\net8.0\Practice1.AssemblyInfoInputs.cache
+D:\studio\Microsoft Visual Studio\uff\Practice1\obj\Debug\net8.0\Practice1.AssemblyInfo.cs
+D:\studio\Microsoft Visual Studio\uff\Practice1\obj\Debug\net8.0\Practice1.csproj.CoreCompileInputs.cache
+D:\studio\Microsoft Visual Studio\uff\Practice1\obj\Debug\net8.0\Practice1.dll
+D:\studio\Microsoft Visual Studio\uff\Practice1\obj\Debug\net8.0\refint\Practice1.dll
+D:\studio\Microsoft Visual Studio\uff\Practice1\obj\Debug\net8.0\Practice1.pdb
+D:\studio\Microsoft Visual Studio\uff\Practice1\obj\Debug\net8.0\Practice1.genruntimeconfig.cache
+D:\studio\Microsoft Visual Studio\uff\Practice1\obj\Debug\net8.0\ref\Practice1.dll
